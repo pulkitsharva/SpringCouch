@@ -1,4 +1,4 @@
-package com.pulkit.tutorial.controller;
+package com.pulkit.couch.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

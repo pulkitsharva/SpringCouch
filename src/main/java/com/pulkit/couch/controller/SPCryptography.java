@@ -1,4 +1,4 @@
-package com.pulkit.tutorial.controller;
+package com.pulkit.couch.controller;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
