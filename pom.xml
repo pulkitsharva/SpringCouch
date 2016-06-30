@@ -26,6 +26,12 @@
 			<artifactId>spring-web</artifactId>
 			<version>${spring.version}</version>
 		</dependency>
+		<!-- Cache-->
+		<dependency>
+		    <groupId>com.couchbase.client</groupId>
+		    <artifactId>java-client</artifactId>
+		    <version>1.4.12</version>
+		</dependency>
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
