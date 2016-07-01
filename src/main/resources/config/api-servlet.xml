@@ -13,5 +13,5 @@
 	<mvc:annotation-driven />
 	<mvc:default-servlet-handler />
 	<!-- Scan API controllers -->
-	<context:component-scan base-package="com.pulkit.couch.controller" />
+	<context:component-scan base-package="com.pulkit.couch" />
 </beans>
